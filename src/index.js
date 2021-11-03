@@ -7,6 +7,7 @@ import Root from "./components/Root";
 const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
+
   html, body {
     margin: 0;
     padding: 0;
